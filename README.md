@@ -107,5 +107,10 @@ output_directory/
 
 ## Team Members
 
-Tarun Mamidi | tmamidi@uab.edu | Team Leader  
-Shaurita Hutchins | shutchins@uab.edu | Co-leader
+Zongliang Yue (zongyue@uab.edu)
+
+Yuwei Song (songyw@uab.edu)
+
+Neda Ghohabi (nedaghohabi777@gmail.com)
+
+Eric Zhang (ezhang1@g.ucla.edu)
