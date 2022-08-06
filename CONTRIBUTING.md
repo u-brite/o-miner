@@ -19,3 +19,4 @@ Thanks for your desire to contribute to this project!
 2. Visit Github, click the handy "Pull request" button that it will make upon noticing your new branch.
 3. In the description field, write down issue number (if submitting code fixing an existing issue) or describe the issue + your fix (if submitting a wholly new bugfix).
 4. Hit 'submit' and ask for the repository owner to review.
+
