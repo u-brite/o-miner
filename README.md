@@ -20,8 +20,11 @@
 Cancer patient stratification and molecular mechanism identification are essential in risk prediction and personalized therapy. We introduce an application integrated with our previous published tools, the metadata annotation tool called "Statistical Enrichment Analysis of Samples (SEAS)" and the functional genomics downstream analysis tool called "PAGER Web APP". The application enables the stratification of the cancer patients associated with molecular subtypes joined with clinotypes using the clinical feature weighted functional genomics embedding and allows users to identify sub-cohorts in densMAP. In the functional genomics downstream analysis, the application identifies molecular mechanisms driving the clinical feature and systematically reviews the critical insights of the pathway crosstalk and gene mechanisms among those molecular subtypes. The application provides a visual exploration of the sub-cohort's gene panels in each enriched pathway coupling with gene networks, and a comprehensive review of genes by topology-based and transcriptomics-based prioritization.
 
 ## Data
+Glioblastoma Multiforme TCGA PanCancer data (gbm_tcga_pan_can_atlas_2018)
 
+https://www.cbioportal.org/study/summary?id=gbm_tcga_pan_can_atlas_2018
 
+https://gdc.cancer.gov/about-data/publications/pancanatlas
 
 ## Usage
 
