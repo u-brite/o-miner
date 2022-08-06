@@ -1,34 +1,31 @@
-# team-repo-template
-:exclamation: _This top heading should be the name of your project i.e. BiocSwirl or SNVariome. Anything between 2 exclamation marks is intended to be deleted. Any content that isn't a heading or an optional heading can be deleted as well. The structure of this readme is open to any creative changes, but the main components of Background/Data/Usage/Team Members should remain. You're free to add images and get creative about how you want your readme to look._ :exclamation:
+# o-miner
 
-:exclamation: _The `configs` and `notebooks` directories are also optional. We recommend taking a look at [cookiecutter for datascience](https://github.com/drivendata/cookiecutter-data-science) or [cookiecutter for computational biology](https://github.com/drivendata/cookiecutter-data-science) to get ideas on structuring your projects. Also, use a `.gitignore` that fits the main programming language of your project._ :exclamation:
 
 ## Table of Contents
 
-- [Template](#team-repo-template)
+- [o-miner](#o-miner)
     - [Background](#Background)
     - [Data](#data)
     - [Usage](#usage)
         - [Installation](#installation)
-        - [Requirements](#requirements) _Can be named Dependencies as well_
-        - [Activate conda environment](#activate-conda-environment) _Optional_
-        - [Steps to run ](#steps-to-run) _Optional depending on project_
+        - [Requirements](#requirements)
+        - [Steps to run ](#steps-to-run)
             - [Step-1](#step-1)
             - [Step-2](#step-2)
-    - [Results](#results) _Optional depending on project_
+    - [Results](#results)
     - [Team Members](#team-members)
 
 ## Background
 
-:exclamation: _Include background on the project, project description, and significance. This will be converted to your team's abstract by the end of the hackathon. This should be updated by Monday, August 1st to include feedback given._ :exclamation:
+Cancer patient stratification and molecular mechanism identification are essential in risk prediction and personalized therapy. We introduce an application integrated with our previous published tools, the metadata annotation tool called "Statistical Enrichment Analysis of Samples (SEAS)" and the functional genomics downstream analysis tool called "PAGER Web APP". The application enables the stratification of the cancer patients associated with molecular subtypes joined with clinotypes using the clinical feature weighted functional genomics embedding and allows users to identify sub-cohorts in densMAP. In the functional genomics downstream analysis, the application identifies molecular mechanisms driving the clinical feature and systematically reviews the critical insights of the pathway crosstalk and gene mechanisms among those molecular subtypes. The application provides a visual exploration of the sub-cohort's gene panels in each enriched pathway coupling with gene networks, and a comprehensive review of genes by topology-based and transcriptomics-based prioritization.
 
 ## Data
 
-:exclamation: _Discuss the data you used and how it can be accessed._ :exclamation:
+
 
 ## Usage
 
-:exclamation: _How will someone not involved in your project be able to run the code or use it._ :exclamation:
+
 
 ### Installation
 
@@ -48,31 +45,6 @@ git clone -b main \
 ### Requirements
 :exclamation: _Note any software used (including Python or R packages), operating system requirements, etc. and its version so that your project is reproducible. It does not have to be in the below format_ :exclamation:
 
-*OS:*
-
-Currently works only in Linux OS. Docker versions may need to be explored later to make it useable in Mac (and
-potentially Windows).
-
-*Tools:*
-
-- Anaconda3
-    - Tested with version: 2020.02
-
-### Activate conda environment
-:exclamation: _Optional: Depends on project._ :exclamation:
-
-Change in to root directory and run the commands below:
-
-```sh
-# create conda environment. Needed only the first time.
-conda env create --file configs/environment.yaml
-
-# if you need to update existing environment
-conda env update --file configs/environment.yaml
-
-# activate conda environment
-conda activate testing
-```
 
 ### Steps to run
 :exclamation: _Optional: Depends on project._ :exclamation:
@@ -99,11 +71,12 @@ output_directory/
 
 ```
 
-**Note**: The is an example note with a [link](https://github.com/u-brite/team-repo-template).
 
 
 ## Results
-:exclamation: _If your project yielded or intends to yield some novel analysis, please include them in your readme. It can be named something other than results as well._ :exclamation:
+ 
+ 
+ 
 
 ## Team Members
 
