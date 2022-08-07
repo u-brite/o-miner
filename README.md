@@ -23,6 +23,7 @@ The project is critical in solving the problem of sub-cohort identification and 
 
 ## Data
 GBM multi-Omics data: https://www.cbioportal.org/study/summary?id=gbm_tcga_pan_can_atlas_2018
+Data availibility: https://drive.google.com/drive/folders/1-3KZ0NtVdO-mqFQOtSYXoi9D1o9JNO3R?usp=sharing
 GBM related drug targes in DrugBank: 
 https://go.drugbank.com/
 
