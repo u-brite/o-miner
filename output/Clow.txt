@@ -1,0 +1,12 @@
+sampleID	Type
+TCGA-06-0157-01	Classical
+TCGA-06-0747-01	Classical
+TCGA-06-2564-01	Classical
+TCGA-06-5856-01	Classical
+TCGA-12-5299-01	Classical
+TCGA-14-0787-01	Classical
+TCGA-19-2625-01	Classical
+TCGA-28-1747-01	Classical
+TCGA-28-2514-01	Classical
+TCGA-76-4926-01	Classical
+TCGA-76-4931-01	Classical
